@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Kassinoff - Portal Administrativo</title>
+        <title>Portal Administrativo Laravel 11</title>
     </head>
     <body>
         <h1>Bem vindo ao Laravel 11</h1>

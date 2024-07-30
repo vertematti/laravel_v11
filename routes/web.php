@@ -7,4 +7,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/import', [DataController::class, 'index'])->name('user.import');
+Route::get('/import', [DataController::class, 'import'])->name('user.import');
