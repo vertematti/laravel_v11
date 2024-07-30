@@ -17,7 +17,9 @@
 Siga os passos abaixo:
 
 - Copiar o arquivo .env.example para .env
+- Configurar a conexão com o banco de dados desejado
 - Executar "composer install"
+- Executar "php artisan migrate"
 - Executar "php artisan key:generate"
 - Executar "php artisan serve"
 - Acessar o projeto via Navegador http://127.0.0.1:8000
